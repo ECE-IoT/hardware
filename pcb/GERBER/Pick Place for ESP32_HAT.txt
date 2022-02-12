@@ -1,0 +1,27 @@
+Altium Designer Pick and Place Locations
+C:\Users\jan-s\OneDrive - FH JOANNEUM\FH\5_Semester\ECEP\ECE_Proj_GrE\Project Outputs for ECE_Proj_GrE\Pick Place for ESP32_HAT.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       24.12.21
+Time:       10:54
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                          Layer       Footprint        Center-X(mil) Center-Y(mil) Rotation Description                                                        
+""         "Socket 19p"                     TopLayer    socket_19p       1100.000      1250.000      90       "WR-PHD Socket Header, THT, pitch 2.54, Single Row, Vertical, 19p" 
+""         "Socket 19p"                     TopLayer    socket_19p       100.000       1250.000      270      "WR-PHD Socket Header, THT, pitch 2.54, Single Row, Vertical, 19p" 
+MHNP4      "Mounting Hole Non-Plated 3.2mm" TopLayer    MTHNP3P2MM       1100.000      100.000       90       "Mounting Hole Non-Plated 3.2mm drill hole"                        
+MHNP3      "Mounting Hole Non-Plated 3.2mm" TopLayer    MTHNP3P2MM       100.000       100.000       90       "Mounting Hole Non-Plated 3.2mm drill hole"                        
+MHNP2      "Mounting Hole Non-Plated 3.2mm" TopLayer    MTHNP3P2MM       1100.000      2400.000      90       "Mounting Hole Non-Plated 3.2mm drill hole"                        
+MHNP1      "Mounting Hole Non-Plated 3.2mm" TopLayer    MTHNP3P2MM       100.000       2400.000      90       "Mounting Hole Non-Plated 3.2mm drill hole"                        
+P5         61300311021                      BottomLayer 61300311021      550.000       2090.945      0        "THT Angled Pin Header WR-PHD, Pitch 2.54 mm, Single Row, 3 pins"  
+R1         "3K3 5% 0805(2012)"              BottomLayer RESC0805(2012)_M 861.339       2260.000      0        "3K3 0.125W 5% 0805 (2012 Metric)  SMD"                            
+R23        "3K3 5% 0805(2012)"              BottomLayer RESC0805(2012)_M 590.000       600.404       0        "3K3 0.125W 5% 0805 (2012 Metric)  SMD"                            
+R22        "3K3 5% 0805(2012)"              BottomLayer RESC0805(2012)_M 590.000       490.000       0        "3K3 0.125W 5% 0805 (2012 Metric)  SMD"                            
+P4         61300411021                      BottomLayer 61300411021      800.000       950.000       270      "THT Angled Pin Header WR-PHD, Pitch 2.54 mm, Single Row, 4 pins"  
+P3         61300411021                      BottomLayer 61300411021      800.000       450.000       270      "THT Angled Pin Header WR-PHD, Pitch 2.54 mm, Single Row, 4 pins"  
+P2         61300311021                      BottomLayer 61300311021      800.945       2000.000      270      "THT Angled Pin Header WR-PHD, Pitch 2.54 mm, Single Row, 3 pins"  
+P1         61300411021                      BottomLayer 61300411021      800.000       1450.000      270      "THT Angled Pin Header WR-PHD, Pitch 2.54 mm, Single Row, 4 pins"  

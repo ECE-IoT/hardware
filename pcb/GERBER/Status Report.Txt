@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [ECE_Proj_GrE.PrjPcb]
+   Generated File[Pick Place for ESP32_HAT.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:54:52 On 24.12.2021
