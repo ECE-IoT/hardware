@@ -2,6 +2,7 @@ site_name: Hardware
 nav:
   - Home: 
       Welcome: index.md
+  - Hardware: description.md
 
 
 repo_url: https://github.com/ECE-IoT/esp-iot-framework

@@ -15,5 +15,5 @@ The idea for the case of the PCB was to make a universal use for a realisation o
 
 For the cover 2 variations were constructed. A closed one and one a opened one for the light sensor VEML7700. For the connection of cover and housing a simple snap connection was chosen. Grooves were added to the sides of the housing and to the cover to guarantee a sufficient air supply.
 
-![Case](assets/case.png)
+![Case](assets/housing_plate_insert_threads.png)
 
