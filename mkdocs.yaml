@@ -1,6 +1,5 @@
 site_name: Hardware
 nav:
-
   - Home: https://ece-iot.github.io
   - Core: https://ece-iot.github.io/esp-iot-framework/core/
   - Sensors: https://ece-iot.github.io/esp-iot-framework/sensors/

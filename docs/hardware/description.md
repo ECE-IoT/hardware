@@ -1,3 +1,4 @@
+# Hardware
 ## PCB Design
 
 The idea of the PCB was to make a simple connection from sensors to the ESP32. Three I2C and one OneWire interfaces were used for the PCB. Most of the sensors can communicate with I2C therefore  a connection with I2C is easy because everything is on a bus and speed is not that important in our case. Pull-up resistors were used for the data lines and Vcc. Male pin headers were used as connectors for the sensors.
