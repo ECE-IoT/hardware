@@ -5,7 +5,7 @@ nav:
   - Sensors: https://ece-iot.github.io/esp-iot-framework/sensors/
   - AWS: https://ece-iot.github.io/aws-iot-framework/aws/cli/configuration-basics/
   - Alexa: https://ece-iot.github.io/aws-iot-framework/alexa/
-  - Hardware: /hardware/description.md
+  - Hardware: hardware/description.md
 
 
 repo_url: https://ece-iot.github.io/hardware/
