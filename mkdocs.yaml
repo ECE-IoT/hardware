@@ -1,11 +1,15 @@
 site_name: Hardware
 nav:
-  - Home: 
-      Welcome: index.md
-  - Hardware: description.md
+
+  - Home: https://ece-iot.github.io
+  - Core: https://ece-iot.github.io/esp-iot-framework/core/
+  - Sensors: https://ece-iot.github.io/esp-iot-framework/sensors/
+  - AWS: https://ece-iot.github.io/aws-iot-framework/aws/cli/configuration-basics/
+  - Alexa: https://ece-iot.github.io/aws-iot-framework/alexa/
+  - Hardware: /hardware/description.md
 
 
-repo_url: https://github.com/ECE-IoT/esp-iot-framework
+repo_url: https://ece-iot.github.io/hardware/
 
 theme:
   name: material
@@ -18,15 +22,15 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: pink
-      accent: blue
+      primary: deep orange
+      accent: teal
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
-      accent: pink
+      primary: teal
+      accent: deep orange
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
